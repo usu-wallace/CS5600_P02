@@ -1,2 +1,4 @@
 *:Zone.Identifier
 ~*.docx
+/model.joblib
+/submission.csv
