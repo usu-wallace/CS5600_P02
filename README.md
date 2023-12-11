@@ -28,3 +28,7 @@ I will be using **Anaconda** ([link](https://www.anaconda.com/download/)) with w
 4. Wait until program finishes running. My computer took about 4 minutes, but your mileage may vary.
 
 See `project.ipynb` for further details.
+
+## Video Explanation
+
+https://github.com/usu-wallace/CS5600_P02/assets/112672373/acebf15d-9735-47bd-962d-778e12f8878a
